@@ -1,5 +1,3 @@
-{::comment}[![Build Status](https://travis-ci.org/jabranham/jabranham.github.io.svg?branch=master)](https://travis-ci.org/jabranham/jabranham.github.io)
-{:/comment}
 
 This is my personal website. It inspired by the directions given at
 [www.jabranham.com](www.jabranham.com)
