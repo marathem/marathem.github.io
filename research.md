@@ -6,7 +6,9 @@ permalink: /Research/
 
 ### Refereed Conference Papers
 1. **Meghana Marathe**, Jacki O’Neill, Paromita Pain, and William Thies. ICT-Enabled Grievance Redressal in Central India: A Comparative Analysis. In *International Conference on Information and Communication Technologies and Development (ICTD)*, 2016. [Forthcoming]
+
 2. **Meghana Marathe**, Jacki O’Neill, Paromita Pain, and William Thies. Revisiting CGNet Swara and its Impact in Rural India. In *International Conference on Information and Communication Technologies and Development (ICTD)*, 2015.
+
 3. **Meghana Marathe**, and Graeme Hirst. Lexical Chains using Distributional Measures of Concept Distance. In *Computational Linguistics and Intelligent Text Processing*, 2010.
 
 
